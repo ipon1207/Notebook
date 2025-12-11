@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 825.5
+    "width": 879.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1fe42e45cd127902",
+  "active": "f902c071ed17d57a",
   "lastOpenFiles": [
     "スケジュールパターン.md",
     "無題のファイル.canvas",
