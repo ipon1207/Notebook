@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ecc9056136f9e9",
+        "id": "7dc8c6d1c570fb8e",
         "type": "tabs",
         "children": [
           {
-            "id": "f902c071ed17d57a",
+            "id": "255d59fca3f34f21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "スケジュールパターン.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "スケジュールパターン"
             }
           }
         ]
@@ -70,12 +74,12 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -152,30 +156,22 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "スケジュールパターン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
-            }
-          },
-          {
-            "id": "1fe42e45cd127902",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {},
-              "icon": "lucide-calendar",
-              "title": "Google Calendar"
+              "title": "スケジュールパターンのアウトライン"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 879.5
+    "width": 957.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +187,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "f902c071ed17d57a",
+  "floating": {
+    "id": "390f2527283c9f34",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e3070b5293b25360",
+        "type": "window",
+        "children": [
+          {
+            "id": "c374084ae03110a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1fe42e45cd127902",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-google-calendar",
+                  "state": {},
+                  "icon": "lucide-calendar",
+                  "title": "Google Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1178,
+        "y": 19,
+        "width": 957,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "255d59fca3f34f21",
   "lastOpenFiles": [
     "スケジュールパターン.md",
     "無題のファイル.canvas",
