@@ -12,3 +12,8 @@ Thumbs.db
 # 一時ファイル
 *.swp
 *~
+
+
+
+# Ignore Smart Environment folder
+.smart-env
