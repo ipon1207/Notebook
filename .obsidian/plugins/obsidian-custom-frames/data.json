@@ -1,8 +1,8 @@
 {
   "frames": [
     {
-      "url": "https://calendar.google.com/calendar/u/0/r",
-      "displayName": "Google Calendar",
+      "url": "https://web.structured.app/",
+      "displayName": "structured",
       "icon": "calendar",
       "hideOnMobile": true,
       "addRibbonIcon": true,

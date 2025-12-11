@@ -41,20 +41,6 @@ renderHeatmapCalendar(this.container, calendarData);
 
 ---
 
-## 🔥 Today's Tasks
-
-> [!IMPORTANT] 優先タスク
-> 今日が期限、期限切れのタスク
-
-```tasks
-not done
-due before or on today
-sort by priority
-hide backlink
-```
-
----
-
 ## 🕰️ Current Projects / Learning
 
 > [!example] 進行中の勉強・プロジェクト
@@ -81,4 +67,3 @@ WHERE file.cday >= date(today) - dur(3 days)
 AND !contains(file.folder, "Daily Notes")
 SORT file.ctime DESC
 ```
-
