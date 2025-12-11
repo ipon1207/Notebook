@@ -186,41 +186,6 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "390f2527283c9f34",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e3070b5293b25360",
-        "type": "window",
-        "children": [
-          {
-            "id": "c374084ae03110a2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1fe42e45cd127902",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-google-calendar",
-                  "state": {},
-                  "icon": "lucide-calendar",
-                  "title": "Google Calendar"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1178,
-        "y": 19,
-        "width": 957,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "255d59fca3f34f21",
   "lastOpenFiles": [
     "Templates/Daily Note Template.md",
