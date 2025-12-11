@@ -179,8 +179,7 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "bases:Create new base": false
     }
   },
   "active": "b0dd19edded759cd",
