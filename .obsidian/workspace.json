@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "python"
             }
           }
         ]
@@ -201,10 +201,11 @@
   "lastOpenFiles": [
     "Daily Notes/2025-12-11.md",
     "python.md",
+    "python.md",
     "Dashboard.md",
+    "スケジュールパターン.md",
     "Daily Notes",
     "Daily Notes.md",
-    "スケジュールパターン.md",
     "新規 テキスト ドキュメント.txt",
     "Welcome.md"
   ]
