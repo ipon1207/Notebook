@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "268dbbba9c1da019",
+        "id": "3b8698a8be987ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "b0dd19edded759cd",
+            "id": "9f95484c9fec741d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "新規タブ"
             }
           }
         ]
@@ -198,14 +194,14 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "b0dd19edded759cd",
+  "active": "9f95484c9fec741d",
   "lastOpenFiles": [
+    "スケジュールパターン.md",
+    "Dashboard.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/2025-12-11.md",
-    "Dashboard.md",
     "Templates",
     "python.md",
-    "スケジュールパターン.md",
     "Daily Notes",
     "Daily Notes.md",
     "新規 テキスト ドキュメント.txt",
