@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b8698a8be987ce9",
+        "id": "f0ecc9056136f9e9",
         "type": "tabs",
         "children": [
           {
-            "id": "9f95484c9fec741d",
+            "id": "f902c071ed17d57a",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-google-calendar",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-calendar",
-              "title": "Google Calendar"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -70,7 +70,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,13 +159,23 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "1fe42e45cd127902",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar",
+              "title": "Google Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 825.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +191,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f95484c9fec741d",
+  "active": "1fe42e45cd127902",
   "lastOpenFiles": [
     "スケジュールパターン.md",
     "無題のファイル.canvas",
