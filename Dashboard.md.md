@@ -1,0 +1,43 @@
+# 🚀 Dashboard
+
+> [!INFO] WELCOME BACK!
+> 今日も1日、積み上げよう
+
+---
+
+## 📅 Habits & Progress
+```dataviewjs
+// --- 設定開始 ---
+const folderName = '"Daily Notes"'; // 日記のフォルダ名（ダブルクォートで囲む）
+const targetYear = 2025;            // 表示したい年
+// --- 設定終了 ---
+
+dv.span("**📚 Study Log**");
+
+const calendarData = {
+    year: targetYear,
+    colors: {
+        0: ["#f2f2f2", "#f2f2f2", "#f2f2f2", "#f2f2f2", "#f2f2f2"],
+        1: ["#ffdfd9", "#ffbfb3", "#ff9f8e", "#ff7f68", "#ff5f43"],
+    },
+    entries: []
+};
+
+// 指定フォルダから、study_time（勉強時間）が記録されているノートを取得
+const pages = dv.pages(folderName).where(p => p.study_time);
+
+for (let page of pages) {
+    calendarData.entries.push({
+        date: page.file.name, // ノート名が "2025-01-01" のような形式である必要があります
+        intensity: page.study_time,
+        content: "" // マスの中に文字を表示したい場合はここに "✓" などを入れる
+    });
+}
+
+// カレンダーを描画
+renderHeatmapCalendar(this.container, calendarData);
+```
+
+---
+
+## 
