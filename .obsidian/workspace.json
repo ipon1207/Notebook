@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "スケジュールパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "スケジュールパターン"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md",
+                "file": "スケジュールパターン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Dashboardのアウトライン"
+              "title": "スケジュールパターンのアウトライン"
             }
           }
         ],
@@ -190,9 +190,9 @@
   },
   "active": "9f95484c9fec741d",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/2025-12-11.md",
-    "Dashboard.md",
     "スケジュールパターン.md",
     "Templates",
     "python.md",
