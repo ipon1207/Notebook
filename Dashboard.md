@@ -6,6 +6,7 @@
 ---
 
 ## 📅 Habits & Progress
+
 ```dataviewjs
 // --- 設定開始 ---
 const folderName = '"Daily Notes"'; // 日記のフォルダ名（ダブルクォートで囲む）
@@ -45,11 +46,12 @@ renderHeatmapCalendar(this.container, calendarData);
 > [!IMPORTANT] 優先タスク
 > 今日が期限、期限切れのタスク
 
-Tasks
+```Tasks
 not done
 due before or on today
 sort by priority
 hide backlink
+```
 
 ---
 
