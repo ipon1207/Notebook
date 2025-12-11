@@ -40,4 +40,43 @@ renderHeatmapCalendar(this.container, calendarData);
 
 ---
 
-## 
+## 🔥 Today's Tasks
+
+> [!IMPORTANT] 優先タスク
+> 今日が期限、期限切れのタスク
+
+Tasks
+not done
+due before or on today
+sort by priority
+hide backlink
+
+---
+
+## 🕰️ Current Projects / Learning
+
+> [!example] 進行中の勉強・プロジェクト
+> タグ　`#project/active` または `#study/now` が付いているノート
+
+```Dataview
+TABLE without id file.link as "Project", file.mday as "Last Modified"
+FROM #project/active OR #study/now
+SORT file.mday DESC
+LIMIT 5
+```
+
+---
+
+## 📝 Recent Notes
+
+> [!quote] 最近のインプット
+> 最近作成した3日分のノート（Daily Noteを除く）
+
+```Dataview
+LIST
+FROM ""
+WHERE file.cday >= date(today) - dur(3 days)
+AND !contains(file.folder, "Daily Notes")
+SORT file.ctime DESC
+```
+
