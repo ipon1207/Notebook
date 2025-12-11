@@ -2,8 +2,8 @@
   "frames": [
     {
       "url": "https://web.structured.app/",
-      "displayName": "structured",
-      "icon": "calendar",
+      "displayName": "Structured",
+      "icon": "layout-list",
       "hideOnMobile": true,
       "addRibbonIcon": true,
       "openInCenter": true,

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc8c6d1c570fb8e",
+        "id": "714ba2291761cdd4",
         "type": "tabs",
         "children": [
           {
-            "id": "255d59fca3f34f21",
+            "id": "9ed9f0d3e8c1595a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Daily Notes/2025-12-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "2025-12-11"
             }
           }
         ]
@@ -163,18 +163,27 @@
               "icon": "lucide-list",
               "title": "2025-12-11のアウトライン"
             }
+          },
+          {
+            "id": "255d59fca3f34f21",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-structured",
+              "state": {},
+              "icon": "lucide-layout-list",
+              "title": "Structured"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 957.5,
-    "collapsed": true
+    "width": 957.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Structured": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
@@ -186,13 +195,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "255d59fca3f34f21",
+  "active": "9ed9f0d3e8c1595a",
   "lastOpenFiles": [
-    "Daily Notes/2025-12-11.md",
-    "スケジュールパターン.md",
     "Templates/Daily Note Template.md",
-    "無題のファイル.canvas",
+    "Daily Notes/2025-12-11.md",
     "Dashboard.md",
+    "スケジュールパターン.md",
+    "無題のファイル.canvas",
     "Templates",
     "python.md",
     "Daily Notes",
