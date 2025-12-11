@@ -3,5 +3,6 @@
   "obsidian-tasks-plugin",
   "dataview",
   "heatmap-calendar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-custom-frames"
 ]
