@@ -11,7 +11,4 @@ created: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
 ## 📝 勉強・作業ログ
 - 
 
-## 🧠 思考・メモ
-- 
-
 ## AIからのフィードバック
