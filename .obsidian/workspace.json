@@ -173,6 +173,16 @@
               "icon": "lucide-layout-list",
               "title": "Structured"
             }
+          },
+          {
+            "id": "250df693b9f143df",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Gemini Chat"
+            }
           }
         ],
         "currentTab": 5
@@ -192,7 +202,8 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-custom-frames:Open Structured": false
+      "obsidian-custom-frames:Open Structured": false,
+      "gemini-helper:Open Gemini Chat": false
     }
   },
   "active": "9ed9f0d3e8c1595a",

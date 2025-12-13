@@ -4,5 +4,6 @@
   "dataview",
   "heatmap-calendar",
   "templater-obsidian",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "gemini-helper"
 ]
