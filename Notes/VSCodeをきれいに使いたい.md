@@ -14,7 +14,12 @@ code --list-extensions
 - ms-vscode-remote.remote-ssh-edit（上のインストールしたらついてきた）
 - ms-vscode.remote-explorer（上のインストールしたらついてきた）
 - vscode-icons-team.vscode-icons（エクスプローラーの表示を豊かにする）
+- ms-vscode-remote.remote-wsl（WSL接続用）
 大体は DevContainer で解決するので問題ないような気がしてきた（DevContainer 最高！DevContainer 最高！）
+
+## ちょっと問題
+
+
 
 ## ローカルで作業する場合
 obsidianなんかは今のところ、ローカルで作業するから、mdファイルをVSCodeでもいじりたくなった時に用にプロファイルを作っておいた
