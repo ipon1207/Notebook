@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/12月13日の修正内容.md",
+                "file": "Daily Notes/2025-12-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12月13日の修正内容"
+              "title": "2025-12-13"
             }
           }
         ]
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 651.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +198,11 @@
   },
   "active": "f15f487529def609",
   "lastOpenFiles": [
+    "helper/chat_1765608427568_lhscnoa.md",
+    "Notes/12月13日の修正内容.md",
     "Notes/1204.pdf",
     "Daily Notes/2025-12-13.md",
     "Templates/Daily Note Template.md",
-    "Notes/12月13日の修正内容.md",
     "Notes/VSCodeをきれいに使いたい.md",
     "Notes/1213.tex",
     "Notes/main.tex",
