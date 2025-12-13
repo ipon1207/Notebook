@@ -20,7 +20,13 @@ code --list-extensions
 - ms-vscode-remote.remote-wsl（WSL 接続用）
   大体は DevContainer で解決するので問題ないような気がしてきた（DevContainer 最高！DevContainer 最高！）
 
-## ちょっと問題発生した
+## DevContainer でちょっと問題発生
+
+なんかローカルから開いた DevContainer が重い（例: LaTeX のコンパイルとか、npm コマンドとか）
+調べたら、ローカルから開いた DevContainer は、ホスト OS のリソースを使うから、I/O 処理が遅くなるらしい
+なので、DevContainer を開くときは、WSL 経由で開くようにした（結局、前と同じです）
+WSL 上はどうやってきれいに運用するかなー？
+WSL 上で拡張機能確認してたら、`.ipynb Support` とかいうやつを勝手に入れようとしてた（は？）
 
 ## ローカルで作業する場合
 
