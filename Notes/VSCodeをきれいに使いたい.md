@@ -5,11 +5,12 @@
 ```PowerShell
 code --list-extensions
 ```
-- github.copilot
-- github.copilot-chat
-mhutchie.git-graph
-ms-ceintl.vscode-language-pack-ja
-ms-vscode-remote.remote-containers
-ms-vscode-remote.remote-ssh
-ms-vscode-remote.remote-ssh-edit
-ms-vscode.remote-explorer
+- github.copilot（GitHub Copilot機能）
+- github.copilot-chat（GitHub Copilot のチャット機能）
+- mhutchie.git-graph（Gitリポジトリのグラフ可視化）
+- ms-ceintl.vscode-language-pack-ja（VSCode の日本語化）
+- ms-vscode-remote.remote-containers（DevContainer のリモート接続用）
+- ms-vscode-remote.remote-ssh（SSH接続用）
+- ms-vscode-remote.remote-ssh-edit（上のインストールしたらついてきた）
+- ms-vscode.remote-explorer（上のインストールしたらついてきた）
+大体は DevContainer で解決す
