@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-12-13.md",
+                "file": "Notes/VSCodeをきれいに使いたい.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-13"
+              "title": "VSCodeをきれいに使いたい"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -155,23 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2025-12-11.md",
+                "file": "Notes/VSCodeをきれいに使いたい.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-11のアウトライン"
-            }
-          },
-          {
-            "id": "255d59fca3f34f21",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-structured",
-              "state": {},
-              "icon": "lucide-layout-list",
-              "title": "Structured"
+              "title": "VSCodeをきれいに使いたいのアウトライン"
             }
           },
           {
@@ -189,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +199,11 @@
   },
   "active": "9ed9f0d3e8c1595a",
   "lastOpenFiles": [
-    "Templates/Daily Note Template.md",
+    "Notes/VSCodeをきれいに使いたい.md",
     "Daily Notes/2025-12-13.md",
+    "Notes",
+    "helper",
+    "Templates/Daily Note Template.md",
     "Dashboard.md",
     "Daily Notes/2025-12-11.md",
     "Notes",

@@ -1,16 +1,16 @@
 {
   "googleApiKey": "AIzaSyBaeMW_6FTpp34cUwHWsG9-pKlpVVJ5sLI",
   "model": "gemini-2.5-flash",
-  "ragEnabled": false,
+  "ragEnabled": true,
   "ragStoreId": null,
   "ragIncludeFolders": [],
   "ragExcludePatterns": [],
-  "ragAutoSync": false,
+  "ragAutoSync": true,
   "ragSyncState": {
     "files": {},
     "lastFullSync": null
   },
-  "chatsFolder": "Chats",
+  "chatsFolder": "helper",
   "systemPrompt": "常に日本語で回答してください",
   "debugMode": false
 }
