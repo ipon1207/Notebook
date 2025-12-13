@@ -13,4 +13,6 @@ code --list-extensions
 - ms-vscode-remote.remote-ssh（SSH接続用）
 - ms-vscode-remote.remote-ssh-edit（上のインストールしたらついてきた）
 - ms-vscode.remote-explorer（上のインストールしたらついてきた）
-大体は DevContainer で解決す
+大体は DevContainer で解決するので問題ないような気がしてきた（DevContainer 最高！DevContainer 最高！）
+
+## 拡張機能以外の設定は？
