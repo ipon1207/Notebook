@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "268dbbba9c1da019",
+        "id": "3b4469a2ecbcf2df",
         "type": "tabs",
         "children": [
           {
-            "id": "0194a90163274776",
+            "id": "f165e5fc221f67d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-12-14.md",
+                "file": "Daily Notes/2025-12-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-14"
-            }
-          },
-          {
-            "id": "0c22b8787ecee9dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/APG4b/出力とコメント.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "出力とコメント"
-            }
-          },
-          {
-            "id": "526271de0a398b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Rust/Hello Cargo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hello Cargo"
+              "title": "2025-12-15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -119,7 +89,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69e3bed2746c624f",
+            "id": "250df693b9f143df",
             "type": "leaf",
             "state": {
               "type": "gemini-chat-view",
@@ -132,48 +102,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 651.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Structured": false,
-      "gemini-helper:Open Gemini Chat": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "0c22b8787ecee9dd",
+  "active": "f165e5fc221f67d6",
   "lastOpenFiles": [
-    "Notes/APG4b/出力とコメント.md",
-    "Notes/APG4b",
-    "Daily Notes/2025-12-14.md",
+    "無題のファイル.base",
+    "Daily Notes/2025-12-15.md",
+    "Daily Notes/2025-12-13.md",
     "Notes/Rust/Hello World.md",
     "Notes/Rust/Hello Cargo.md",
     "Notes/Rust",
-    "Notes/12月13日の修正内容.md",
+    "Notes/APG4b/出力とコメント.md",
+    "Notes/APG4b",
+    "Daily Notes/2025-12-14.md",
     "helper/chat_1765608427568_lhscnoa.md",
-    "スケジュールパターン.md",
-    "helper",
+    "Notes/12月13日の修正内容.md",
+    "Notes/1204.pdf",
     "Templates/Daily Note Template.md",
-    "Templates",
     "Notes/VSCodeをきれいに使いたい.md",
     "Notes/1213.tex",
+    "Notes/main.tex",
+    "Notes/1204.md",
     "Notes/1204.tex",
-    "Notes/1204.pdf",
-    "Notes",
     "Dashboard.md",
-    "Daily Notes/2025-12-13.md",
+    "Notes",
+    "helper",
     "Daily Notes/2025-12-11.md",
-    "Daily Notes",
-    "新規 テキスト ドキュメント.txt",
+    "Notes",
+    "スケジュールパターン.md",
+    "無題のファイル.canvas",
+    "python.md",
+    "Daily Notes.md",
     "Welcome.md"
   ]
 }

@@ -1,8 +1,8 @@
 ## Cargo
 
-CargoはRustのビルドシステムとパッケージマネージャーを兼ねる
+Cargo は Rust のビルドシステムとパッケージマネージャーを兼ねる
 コードのビルドや依存(dependencies)のライブラリのダウンロード、そのライブラリのビルドなどを行う
-Cargoはプロジェクトが大規模化したときにその真価を発揮する
+Cargo はプロジェクトが大規模化したときにその真価を発揮する
 
 ## プロジェクトの作成
 
@@ -12,9 +12,10 @@ Cargoはプロジェクトが大規模化したときにその真価を発揮す
 ```
 
 - 以上のコマンドを実行すると `Cargo.toml` と `.gitignore` 、`src/main.rs` が作成される
-- Gitリポジトリの初期化も行われる
+- Git リポジトリの初期化も行われる
 
 **Cargo.toml**
+
 ```toml
 [package]
 name = "hello_cargo"
@@ -24,21 +25,22 @@ edition = "2024"
 [dependencies]
 ```
 
-- TOML(Tom's Obvious, Minimal Language)形式で、Cargoの設定フォーマット
+- TOML(Tom's Obvious, Minimal Language)形式で、Cargo の設定フォーマット
 - `[package]` はセクションヘッダーで、パッケージ情報を設定する
 - `[dependencies]` は、プロジェクトの依存を列挙する（パッケージのことを**クレート**と呼ぶ）
 
 **src/main.rs**
+
 ```rust
 fn main() {
 	println!("Hello, world!");
 }
 ```
 
-- Cargoは `src` 以下にソースファイルがあることを想定している
-- 最上位のディレクトリには、READMEやライセンス情報、設定ファイルなどを置く
+- Cargo は `src` 以下にソースファイルがあることを想定している
+- 最上位のディレクトリには、README やライセンス情報、設定ファイルなどを置く
 
-## Cargoプロジェクトをビルドして実行
+## Cargo プロジェクトをビルドして実行
 
 ```cmd
 > cargo build
@@ -60,14 +62,18 @@ Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.06s
 - 基本的には `cargo check` でコンパイル可能なら `cargo build` をする流れ
 
 > [!IMPORTANT]
+>
 > ### まとめ
+>
 > - `cargo new`: プロジェクトを作成
 > - `cargo build`: プロジェクトをビルド
 > - `cargo run`: ビルドと実行を一括で行う
 > - `cargo check`: バイナリを生成せずにプロジェクトをビルドする
 
 > [!NOTE]
+>
 > ### リリース用のビルド
+>
 > `cargo build --release` を使うことで、最適化した状態でコンパイルできる
 > これによって実行ファイルは `target/release` に生成される
 > コンパイルには時間がかかるため、最終的なプログラムに対して利用することが基本
