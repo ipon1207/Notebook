@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78b042d655aa0745",
+        "id": "268dbbba9c1da019",
         "type": "tabs",
         "children": [
           {
-            "id": "f15f487529def609",
+            "id": "b0dd19edded759cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2025-12-13.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-13"
+              "title": "新規タブ"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Dashboardへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -155,17 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/VSCodeをきれいに使いたい.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "VSCodeをきれいに使いたいのアウトライン"
+              "title": "Welcomeのアウトライン"
             }
           },
           {
-            "id": "250df693b9f143df",
+            "id": "69e3bed2746c624f",
             "type": "leaf",
             "state": {
               "type": "gemini-chat-view",
@@ -174,51 +169,45 @@
               "title": "Gemini Chat"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Structured": false,
+      "gemini-helper:Open Gemini Chat": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-custom-frames:Open Structured": false,
-      "gemini-helper:Open Gemini Chat": false
+      "bases:Create new base": false
     }
   },
-  "active": "f15f487529def609",
+  "active": "b0dd19edded759cd",
   "lastOpenFiles": [
-    "helper/chat_1765608427568_lhscnoa.md",
-    "Notes/12月13日の修正内容.md",
-    "Notes/1204.pdf",
-    "Daily Notes/2025-12-13.md",
-    "Templates/Daily Note Template.md",
-    "Notes/VSCodeをきれいに使いたい.md",
-    "Notes/1213.tex",
-    "Notes/main.tex",
-    "Notes/1204.md",
-    "Notes/1204.tex",
-    "Dashboard.md",
-    "Notes",
-    "helper",
-    "Daily Notes/2025-12-11.md",
-    "Notes",
     "スケジュールパターン.md",
-    "無題のファイル.canvas",
+    "helper/chat_1765608427568_lhscnoa.md",
+    "helper",
+    "Templates/Daily Note Template.md",
     "Templates",
-    "python.md",
+    "Notes/VSCodeをきれいに使いたい.md",
+    "Notes/12月13日の修正内容.md",
+    "Notes/1213.tex",
+    "Notes/1204.tex",
+    "Notes/1204.pdf",
+    "Notes",
+    "Dashboard.md",
+    "Daily Notes/2025-12-13.md",
+    "Daily Notes/2025-12-11.md",
     "Daily Notes",
-    "Daily Notes.md",
     "新規 テキスト ドキュメント.txt",
     "Welcome.md"
   ]
