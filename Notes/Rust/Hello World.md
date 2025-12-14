@@ -35,5 +35,8 @@ fn main() {
 ## コンパイルと実行
 
 > [!IMPORTANT]
-> RustはAOTコンパイル（Ahead-Of-Time
+> Rustは**AOTコンパイル(Ahead-Of-Time)**言語
+> なので、コンパイル後の `exe` ファイルは誰でも実行できる
+
+
 
