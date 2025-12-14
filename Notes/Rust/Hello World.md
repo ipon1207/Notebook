@@ -38,5 +38,4 @@ fn main() {
 > Rustは**AOTコンパイル(Ahead-Of-Time)**言語
 > なので、コンパイル後の `exe` ファイルは誰でも実行できる
 
-
-
+(https://doc.rust-jp.rs/book-ja/ch01-02-hello-world.html)

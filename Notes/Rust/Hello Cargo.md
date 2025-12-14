@@ -58,3 +58,18 @@ Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.06s
 
 - `cargo check` を使うことでコンパイル可能かを確認できる
 - 基本的には `cargo check` でコンパイル可能なら `cargo build` をする流れ
+
+> [!IMPORTANT]
+> ### まとめ
+> - `cargo new`: プロジェクトを作成
+> - `cargo build`: プロジェクトをビルド
+> - `cargo run`: ビルドと実行を一括で行う
+> - `cargo check`: バイナリを生成せずにプロジェクトをビルドする
+
+> [!NOTE]
+> ### リリース用のビルド
+> `cargo build --release` を使うことで、最適化した状態でコンパイルできる
+> これによって実行ファイルは `target/release` に生成される
+> コンパイルには時間がかかるため、最終的なプログラムに対して利用することが基本
+
+(https://doc.rust-jp.rs/book-ja/ch01-03-hello-cargo.html)
