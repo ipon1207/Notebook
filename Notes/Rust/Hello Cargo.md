@@ -39,3 +39,22 @@ fn main() {
 - 最上位のディレクトリには、READMEやライセンス情報、設定ファイルなどを置く
 
 ## Cargoプロジェクトをビルドして実行
+
+```cmd
+> cargo build
+Compiling hello_cargo v0.1.0 (C:\Users\shuji\Projects\Rust\hello_cargo)
+Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.43s
+```
+
+- コマンドを実行することで `target/debug/プロジェクト名.exe` として作成される
+- `Cargo.lock` というプロジェクト内の依存関係のバージョンを記録するファイルを生成する
+- `cargo run` を使うと生成した `exe` ファイルの実行までしてくれる
+
+```cmd
+> cargo check
+Checking hello_cargo v0.1.0 (C:\Users\shuji\Projects\Rust\hello_cargo)
+Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.06s
+```
+
+- `cargo check` を使うことでコンパイル可能かを確認できる
+- 基本的には `cargo check` でコンパイル可能なら `cargo build` をする流れ
