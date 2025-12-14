@@ -49,8 +49,7 @@
               "title": "Hello Cargo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 605.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,13 +148,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c22b8787ecee9dd",
+  "active": "0194a90163274776",
   "lastOpenFiles": [
+    "helper/chat_1765713513084_m82foyr.md",
+    "Notes/Rust/Hello Cargo.md",
     "Notes/APG4b/出力とコメント.md",
     "Notes/APG4b",
     "Daily Notes/2025-12-14.md",
     "Notes/Rust/Hello World.md",
-    "Notes/Rust/Hello Cargo.md",
     "Notes/Rust",
     "Notes/12月13日の修正内容.md",
     "helper/chat_1765608427568_lhscnoa.md",
