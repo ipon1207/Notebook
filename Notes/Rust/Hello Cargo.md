@@ -1,3 +1,3 @@
 ## Cargo
 
-CargoはRustの
+CargoはRustのビルドシステムとパッケージマネージャーを兼ねる
