@@ -11,10 +11,14 @@
             "id": "b0dd19edded759cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-12-14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2025-12-14"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -84,81 +89,6 @@
         "id": "50e51f8a15c8116a",
         "type": "tabs",
         "children": [
-          {
-            "id": "f8a7aa747eab4d72",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "バックリンク"
-            }
-          },
-          {
-            "id": "ec57f2fd628c5971",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
-            }
-          },
-          {
-            "id": "3f0f28a6cc486903",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "タグ"
-            }
-          },
-          {
-            "id": "a195db6f32fa0949",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "すべてのプロパティ"
-            }
-          },
-          {
-            "id": "a0ae51aa2942a265",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Welcomeのアウトライン"
-            }
-          },
           {
             "id": "69e3bed2746c624f",
             "type": "leaf",
@@ -173,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 388.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -193,13 +123,14 @@
   },
   "active": "b0dd19edded759cd",
   "lastOpenFiles": [
-    "スケジュールパターン.md",
+    "Notes/12月13日の修正内容.md",
     "helper/chat_1765608427568_lhscnoa.md",
+    "Daily Notes/2025-12-14.md",
+    "スケジュールパターン.md",
     "helper",
     "Templates/Daily Note Template.md",
     "Templates",
     "Notes/VSCodeをきれいに使いたい.md",
-    "Notes/12月13日の修正内容.md",
     "Notes/1213.tex",
     "Notes/1204.tex",
     "Notes/1204.pdf",
