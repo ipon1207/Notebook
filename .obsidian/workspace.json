@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/APG4b/文字列と文字.md",
+                "file": "Notes/APG4b/配列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文字列と文字"
+              "title": "配列"
             }
           }
         ]
@@ -123,8 +123,9 @@
   },
   "active": "386d37dd79b9d092",
   "lastOpenFiles": [
-    "Notes/APG4b/入力.md",
     "Notes/APG4b/文字列と文字.md",
+    "Notes/APG4b/配列.md",
+    "Notes/APG4b/入力.md",
     "Notes/APG4b/条件式の結果とbool型.md",
     "Notes/APG4b/出力とコメント.md",
     "Daily Notes/2025-12-15.md",
