@@ -35,8 +35,7 @@
               "title": "データ型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,10 +135,10 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "53f59f5814f661fd",
+  "active": "f165e5fc221f67d6",
   "lastOpenFiles": [
-    "Daily Notes/2025-12-15.md",
     "Notes/Rust/3章/データ型.md",
+    "Daily Notes/2025-12-15.md",
     "Notes/Rust/3章/変数と可変性.md",
     "Notes/Rust/3章",
     "Notes/Rust/2章",
