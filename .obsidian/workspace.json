@@ -10,15 +10,17 @@
           {
             "id": "0194a90163274776",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-12-14.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-12-14"
+              "title": "Dashboard"
             }
           },
           {
@@ -106,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -125,6 +126,83 @@
               "state": {},
               "icon": "message-square",
               "title": "Gemini Chat"
+            }
+          },
+          {
+            "id": "f37799eb37dab549",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Dashboardへのバックリンク"
+            }
+          },
+          {
+            "id": "1e895012fbea9425",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Dashboardからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "cd0cb742115fe0b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "ca1f991be4138345",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "4d092aaea28d541a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Dashboardのアウトライン"
             }
           }
         ]
@@ -150,11 +228,11 @@
   },
   "active": "0194a90163274776",
   "lastOpenFiles": [
+    "Daily Notes/2025-12-14.md",
     "helper/chat_1765713513084_m82foyr.md",
     "Notes/Rust/Hello Cargo.md",
     "Notes/APG4b/出力とコメント.md",
     "Notes/APG4b",
-    "Daily Notes/2025-12-14.md",
     "Notes/Rust/Hello World.md",
     "Notes/Rust",
     "Notes/12月13日の修正内容.md",
