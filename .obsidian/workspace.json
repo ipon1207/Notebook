@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "268dbbba9c1da019",
+        "id": "ce48fadd2eaf5005",
         "type": "tabs",
         "children": [
           {
-            "id": "0194a90163274776",
+            "id": "190a0be3049ce62a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Daily Notes/2025-12-16.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "2025-12-16"
             }
           }
         ]
@@ -91,7 +89,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69e3bed2746c624f",
+            "id": "250df693b9f143df",
             "type": "leaf",
             "state": {
               "type": "gemini-chat-view",
@@ -99,78 +97,67 @@
               "icon": "message-square",
               "title": "Gemini Chat"
             }
-          },
-          {
-            "id": "8cfa3bac0b51e7ee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Structured": false,
-      "gemini-helper:Open Gemini Chat": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "8cfa3bac0b51e7ee",
+  "active": "190a0be3049ce62a",
   "lastOpenFiles": [
     "Daily Notes/2025-12-15.md",
+    "Daily Notes/2025-12-16.md",
+    "Notes/Thesis/1213/12月13日の修正内容.md",
+    "Notes/Thesis/1213",
+    "Notes/Thesis/1204/1213.tex",
+    "Notes/Thesis/1204/1204.tex",
+    "Notes/Thesis/1204/1204.pdf",
+    "Notes/Thesis/1204",
+    "Notes/Thesis",
+    "helper/chat_1765713513084_m82foyr.md",
     "helper/chat_1765791734417_xdmpyoq.md",
-    "Notes/APG4b/出力とコメント.md",
-    "conflict-files-obsidian-git.md",
-    "Dashboard.md",
-    "Notes/Rust/3章/関数.md",
-    "Notes/Rust/3章/変数と可変性.md",
-    "Notes/Rust/3章/制御フロー.md",
-    "Notes/Rust/3章/データ型.md",
-    "Notes/Rust/3章/fibonacci.rs",
-    "Notes/Rust/3章/celsius_to_fahrenheit.rs",
-    "Notes/Rust/3章",
-    "Notes/Rust/2章/数当てゲームを作る.md",
-    "Notes/Rust/2章",
-    "Notes/Rust/1章/Hello World.md",
-    "Notes/Rust/1章/Hello Cargo.md",
-    "Notes/Rust/1章",
+    "Notes/APG4b/STLの関数.md",
     "Notes/APG4b/配列.md",
-    "Notes/APG4b/条件式の結果とbool型.md",
     "Notes/APG4b/文字列と文字.md",
     "Notes/APG4b/入力.md",
-    "Notes/APG4b/STLの関数.md",
+    "Notes/APG4b/条件式の結果とbool型.md",
+    "Notes/APG4b/出力とコメント.md",
+    "Notes/Rust/3章/fibonacci.rs",
+    "Notes/Rust/3章/main.rs",
+    "Notes/Rust/3章/関数.md",
+    "Notes/Rust/1章/Hello World.md",
+    "Notes/Rust/3章/celsius_to_fahrenheit.rs",
+    "Notes/Rust/1章/Hello Cargo.md",
+    "Notes/Rust/3章/制御フロー.md",
+    "Notes/Rust/3章/celsius.rs",
+    "Notes/Rust/3章/データ型.md",
+    "Notes/Rust/3章/変数と可変性.md",
+    "Notes/Rust/2章/数当てゲームを作る.md",
+    "Daily Notes/2025-12-13.md",
     "Daily Notes/2025-12-14.md",
-    "helper/chat_1765713513084_m82foyr.md",
-    "Notes/Rust/Hello Cargo.md",
-    "Notes/APG4b",
-    "Notes/Rust/Hello World.md",
-    "Notes/Rust",
-    "Notes/12月13日の修正内容.md",
     "helper/chat_1765608427568_lhscnoa.md",
-    "スケジュールパターン.md",
-    "helper",
+    "Notes/12月13日の修正内容.md",
     "Templates/Daily Note Template.md",
-    "Templates",
     "Notes/VSCodeをきれいに使いたい.md",
-    "Notes/1213.tex"
+    "Notes/1204.md",
+    "Dashboard.md",
+    "無題のファイル.canvas"
   ]
 }
