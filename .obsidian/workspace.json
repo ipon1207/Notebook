@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "6e5d86ffc94b9cb8",
+            "id": "69aeb4f551888328",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "関数"
             }
+          },
+          {
+            "id": "5d0d1fc8d0d6b3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Rust/3章/制御フロー.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "制御フロー"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,11 +150,11 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "6e5d86ffc94b9cb8",
+  "active": "5d0d1fc8d0d6b3cb",
   "lastOpenFiles": [
-    "Notes/Rust/3章/制御フロー.md",
-    "Daily Notes/2025-12-15.md",
     "Notes/Rust/3章/関数.md",
+    "Daily Notes/2025-12-15.md",
+    "Notes/Rust/3章/制御フロー.md",
     "Notes/Rust/3章/データ型.md",
     "Notes/Rust/3章/変数と可変性.md",
     "Notes/Rust/3章",
