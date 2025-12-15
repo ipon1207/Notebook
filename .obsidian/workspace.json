@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-12-15"
             }
-          },
-          {
-            "id": "69aeb4f551888328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Rust/3章/関数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "関数"
-            }
-          },
-          {
-            "id": "5d0d1fc8d0d6b3cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Rust/3章/制御フロー.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "制御フロー"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -150,17 +120,20 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "5d0d1fc8d0d6b3cb",
+  "active": "f165e5fc221f67d6",
   "lastOpenFiles": [
     "Notes/Rust/3章/関数.md",
+    "Notes/Rust/1章/Hello World.md",
+    "Notes/Rust/3章/celsius_to_fahrenheit.rs",
+    "Notes/Rust/1章/Hello Cargo.md",
     "Notes/Rust/3章/制御フロー.md",
+    "Notes/Rust/3章/celsius.rs",
+    "Notes/Rust/3章/main.rs",
     "Daily Notes/2025-12-15.md",
     "Notes/Rust/3章/データ型.md",
     "Notes/Rust/3章/変数と可変性.md",
     "Notes/Rust/3章",
     "Notes/Rust/2章",
-    "Notes/Rust/1章/Hello Cargo.md",
-    "Notes/Rust/1章/Hello World.md",
     "Notes/Rust/1章",
     "Notes/Rust/2章/数当てゲームを作る.md",
     "無題のファイル.base",
@@ -174,10 +147,7 @@
     "Notes/1204.pdf",
     "Templates/Daily Note Template.md",
     "Notes/VSCodeをきれいに使いたい.md",
-    "Notes/1213.tex",
-    "Notes/main.tex",
     "Notes/1204.md",
-    "Notes/1204.tex",
     "Dashboard.md",
     "Daily Notes/2025-12-11.md",
     "スケジュールパターン.md",
