@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -209,18 +208,21 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "190a0be3049ce62a",
+  "active": "3d682da37036822c",
   "lastOpenFiles": [
+    "Notes/Rust/The Rust Programming Language/5章/構造体の定義とインスタンス化.md",
+    "Notes/Rust/The Rust Programming Language/5章",
+    "Notes/Rust/The Rust Programming Language",
     "Daily Notes/2025-12-16.md",
     "Daily Notes/2025-12-17.md",
-    "Notes/Rust/4章/スライス型.md",
+    "Notes/Rust/The Rust Programming Language/4章/スライス型.md",
     "Notes/ゲーム/雑メモ.md",
     "Notes/ゲーム",
-    "Notes/Rust/4章/image-1.png",
-    "Notes/Rust/4章/参照と借用.md",
-    "Notes/Rust/4章/image.png",
-    "Notes/Rust/4章/所有権.md",
-    "Notes/Rust/4章",
+    "Notes/Rust/The Rust Programming Language/4章/image-1.png",
+    "Notes/Rust/The Rust Programming Language/4章/参照と借用.md",
+    "Notes/Rust/The Rust Programming Language/4章/image.png",
+    "Notes/Rust/The Rust Programming Language/4章/所有権.md",
+    "Notes/Rust/The Rust Programming Language/4章",
     "Daily Notes/2025-12-15.md",
     "Notes/Thesis/1213/12月13日の修正内容.md",
     "Notes/Thesis/1213",
@@ -237,18 +239,15 @@
     "Notes/APG4b/入力.md",
     "Notes/APG4b/条件式の結果とbool型.md",
     "Notes/APG4b/出力とコメント.md",
-    "Notes/Rust/3章/fibonacci.rs",
-    "Notes/Rust/3章/main.rs",
-    "Notes/Rust/3章/関数.md",
-    "Notes/Rust/1章/Hello World.md",
-    "Notes/Rust/1章/Hello Cargo.md",
-    "Notes/Rust/3章/制御フロー.md",
-    "Notes/Rust/3章/データ型.md",
-    "Notes/Rust/3章/変数と可変性.md",
-    "Notes/Rust/2章/数当てゲームを作る.md",
+    "Notes/Rust/The Rust Programming Language/3章/関数.md",
+    "Notes/Rust/The Rust Programming Language/1章/Hello World.md",
+    "Notes/Rust/The Rust Programming Language/1章/Hello Cargo.md",
+    "Notes/Rust/The Rust Programming Language/3章/制御フロー.md",
+    "Notes/Rust/The Rust Programming Language/3章/データ型.md",
+    "Notes/Rust/The Rust Programming Language/3章/変数と可変性.md",
+    "Notes/Rust/The Rust Programming Language/2章/数当てゲームを作る.md",
     "Daily Notes/2025-12-13.md",
     "Daily Notes/2025-12-14.md",
-    "helper/chat_1765608427568_lhscnoa.md",
     "無題のファイル.canvas"
   ]
 }
