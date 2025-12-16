@@ -37,8 +37,7 @@
               "title": "雑メモ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/ゲーム/雑メモ.md",
+                "file": "Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "雑メモのアウトライン"
+              "title": "Dashboardのアウトライン"
             }
           }
         ],
@@ -195,11 +194,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "4cee2a01d633a788",
+  "active": "0194a90163274776",
   "lastOpenFiles": [
+    "Notes/ゲーム/雑メモ.md",
     "Dashboard.md",
     "conflict-files-obsidian-git.md",
-    "Notes/ゲーム/雑メモ.md",
     "Notes/ゲーム",
     "Notes/Thesis/1213/12月13日の修正内容.md",
     "Notes/Thesis/1204/1213.tex",
