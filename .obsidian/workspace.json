@@ -126,8 +126,19 @@
               "icon": "message-square",
               "title": "Gemini Chat"
             }
+          },
+          {
+            "id": "36cfff27159f757a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
