@@ -35,8 +35,7 @@
               "title": "メソッド記法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Rust/The Rust Programming Language/5章/メソッド記法.md",
+                "file": "Daily Notes/2025-12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "メソッド記法へのバックリンク"
+              "title": "2025-12-17へのバックリンク"
             }
           },
           {
@@ -149,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Rust/The Rust Programming Language/5章/メソッド記法.md",
+                "file": "Daily Notes/2025-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "メソッド記法からのアウトゴーイングリンク"
+              "title": "2025-12-17からのアウトゴーイングリンク"
             }
           },
           {
@@ -192,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Rust/The Rust Programming Language/5章/メソッド記法.md",
+                "file": "Daily Notes/2025-12-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "メソッド記法のアウトライン"
+              "title": "2025-12-17のアウトライン"
             }
           }
         ],
@@ -224,10 +223,10 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "f5976cf28cb98581",
+  "active": "190a0be3049ce62a",
   "lastOpenFiles": [
-    "Daily Notes/2025-12-17.md",
     "Notes/Rust/The Rust Programming Language/5章/メソッド記法.md",
+    "Daily Notes/2025-12-17.md",
     "Notes/Rust/The Rust Programming Language/5章/構造体の例.md",
     "Notes/Rust/The Rust Programming Language/5章/構造体の定義とインスタンス化.md",
     "Notes/Rust/The Rust Programming Language/5章",
