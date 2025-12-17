@@ -23,3 +23,18 @@ enum IpAddrKind {
 let home = IpAddrKind::V4(String::from("127.0.0.1"));
 let loopback = IpAddrKind::V6(String::from("::1"));
 ```
+
+- 列挙子にデータを関連付けることも可能
+- `V4` と `V6` はそれぞれ `String` 型のデータを持つ
+
+```rust
+enum IpAddr {
+    V4(u8, u8, u8, u8),
+    V6(String),
+}
+
+let home = IpAddr::V4(127, 0, 0, 1);
+let loopback = IpAddr::V6(String::from("::1"));
+```
+
+- 列挙子に異なる型や数のデータを持たせることも可能
