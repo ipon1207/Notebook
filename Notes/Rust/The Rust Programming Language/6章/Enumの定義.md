@@ -38,3 +38,39 @@ let loopback = IpAddr::V6(String::from("::1"));
 ```
 
 - 列挙子に異なる型や数のデータを持たせることも可能
+
+```rust
+enum Message {
+    Quit,
+    Move { x: i32, y: i32 },
+    Write(String),
+    ChangeColor(i32, i32, i32),
+}
+
+impl Message {
+    fn call(&self) {
+        // メソッドの実装
+    }
+}
+
+let m = Message::Write(String::from("hello"));
+m.call();
+```
+
+- 列挙型にメソッドを実装することも可能
+- `impl` ブロック内でメソッドを定義し、列挙型のインスタンスに対して呼び出せる
+
+## `Option enum`
+
+```rust
+enum Option<T> {
+    None,
+    Some(T),
+}
+```
+
+- Rust 標準ライブラリに定義されている汎用的な列挙型
+- `None` は値が存在しないことを表し、`Some(T)` は値が存在することを表す
+- `Option<T>` を使うことで、ヌルポインタを避け、安全に値の有無を扱える
+
+参考(https://doc.rust-jp.rs/book-ja/ch06-01-defining-an-enum.html)
