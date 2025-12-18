@@ -49,8 +49,7 @@
               "title": "Enumの定義"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,12 +247,12 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "08b187f4b4d8a385",
+  "active": "190a0be3049ce62a",
   "lastOpenFiles": [
+    "Notes/Rust/The Rust Programming Language/6章/match制御フロー演算子.md",
     "Notes/Rust/The Rust Programming Language/6章/if let 構文.md",
     "Daily Notes/2025-12-18.md",
     "Notes/Rust/The Rust Programming Language/6章/Enumの定義.md",
-    "Notes/Rust/The Rust Programming Language/6章/match制御フロー演算子.md",
     "Notes/Rust/The Rust Programming Language/6章",
     "Daily Notes/2025-12-17.md",
     "Notes/Rust/The Rust Programming Language/5章/メソッド記法.md",
