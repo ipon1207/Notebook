@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd11fa3c2d20622",
+        "id": "ec3380e7e711a32d",
         "type": "tabs",
         "children": [
           {
-            "id": "0e35e114459a69d8",
+            "id": "df22e74854943185",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-12-19"
             }
-          },
-          {
-            "id": "a59d90b55b2a0ed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Rust/The Rust Programming Language/7章/パッケージとクレート.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "パッケージとクレート"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,13 +78,128 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
     "id": "211465d8e6fbb6da",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "50e51f8a15c8116a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250df693b9f143df",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "gemini-chat-view"
+            }
+          },
+          {
+            "id": "36cfff27159f757a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "2ffcd9db7ef3423f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2025-12-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-12-17へのバックリンク"
+            }
+          },
+          {
+            "id": "1fb22a77e664668f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2025-12-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-12-17からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "78cb6a7592c1b619",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "0fd58c2671f5e6d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "32f84fdf2c1f7a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2025-12-17.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-12-17のアウトライン"
+            }
+          },
+          {
+            "id": "e0d2672070566adc",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Gemini Chat"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
     "direction": "horizontal",
     "width": 628.5,
     "collapsed": true
@@ -119,20 +219,20 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "a59d90b55b2a0ed0",
+  "active": "df22e74854943185",
   "lastOpenFiles": [
-    "Notes/Rust/The Rust Programming Language/7章/useキーワード.md",
-    "Notes/Rust/The Rust Programming Language/7章/モジュールツリーとパス.md",
-    "Notes/Rust/The Rust Programming Language/7章/モジュール定義とスコープ制御.md",
-    "Daily Notes/2025-12-19.md",
-    "Daily Notes/2025-12-17.md",
-    "Notes/Rust/The Rust Programming Language/7章/パッケージとクレート.md",
-    "Notes/Rust/The Rust Programming Language/7章",
-    "Notes/Rust/The Rust Programming Language/6章/match制御フロー演算子.md",
-    "Notes/Rust/The Rust Programming Language/6章/if let 構文.md",
     "Notes/Rust/The Rust Programming Language/6章/Enumの定義.md",
-    "Notes/Rust/The Rust Programming Language/6章",
+    "Notes/Rust/The Rust Programming Language/6章/match制御フロー演算子.md",
     "Daily Notes/2025-12-18.md",
+    "Notes/Rust/The Rust Programming Language/7章/モジュール定義とスコープ制御.md",
+    "Notes/Rust/The Rust Programming Language/7章/モジュールツリーとパス.md",
+    "Notes/Rust/The Rust Programming Language/7章/パッケージとクレート.md",
+    "Notes/Rust/The Rust Programming Language/7章/useキーワード.md",
+    "Notes/Rust/The Rust Programming Language/7章",
+    "Daily Notes/2025-12-19.md",
+    "Notes/Rust/The Rust Programming Language/6章/if let 構文.md",
+    "Notes/Rust/The Rust Programming Language/6章",
+    "Daily Notes/2025-12-17.md",
     "Notes/Rust/The Rust Programming Language/5章/メソッド記法.md",
     "Notes/Rust/The Rust Programming Language/5章/構造体の例.md",
     "Notes/Rust/The Rust Programming Language/5章/構造体の定義とインスタンス化.md",
