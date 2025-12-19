@@ -121,6 +121,7 @@
   },
   "active": "a59d90b55b2a0ed0",
   "lastOpenFiles": [
+    "Notes/Rust/The Rust Programming Language/7章/モジュール定義とスコープ制御.md",
     "Daily Notes/2025-12-19.md",
     "Daily Notes/2025-12-17.md",
     "Notes/Rust/The Rust Programming Language/7章/パッケージとクレート.md",
@@ -158,7 +159,6 @@
     "Notes/APG4b/入力.md",
     "Notes/APG4b/条件式の結果とbool型.md",
     "Notes/APG4b/出力とコメント.md",
-    "Notes/Rust/The Rust Programming Language/3章/関数.md",
     "無題のファイル.canvas"
   ]
 }
