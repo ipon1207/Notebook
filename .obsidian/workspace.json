@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Thesis/1219/メモ.md",
+                "file": "Notes/Rust/The Rust Programming Language/7章/useキーワード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "メモ"
+              "title": "useキーワード"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "211465d8e6fbb6da",
@@ -233,8 +233,9 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "eced439207cbd231",
+  "active": "df22e74854943185",
   "lastOpenFiles": [
+    "Notes/Rust/The Rust Programming Language/7章/useキーワード.md",
     "Notes/Thesis/1219/メモ.md",
     "Notes/Thesis/1219",
     "Daily Notes/2025-12-19.md",
@@ -244,7 +245,6 @@
     "Notes/Rust/The Rust Programming Language/7章/モジュール定義とスコープ制御.md",
     "Notes/Rust/The Rust Programming Language/7章/モジュールツリーとパス.md",
     "Notes/Rust/The Rust Programming Language/7章/パッケージとクレート.md",
-    "Notes/Rust/The Rust Programming Language/7章/useキーワード.md",
     "Notes/Rust/The Rust Programming Language/7章",
     "Notes/Rust/The Rust Programming Language/6章/if let 構文.md",
     "Notes/Rust/The Rust Programming Language/6章",
