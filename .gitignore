@@ -5,6 +5,7 @@ Thumbs.db
 # Obsidianの一時情報
 .obsidian/workspace
 .obsidian/cache
+.obsidian/workspace.json
 
 # モバイル連携時のファイル
 .obsidian/ob-mobile.json
