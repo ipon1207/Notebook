@@ -35,8 +35,7 @@
               "title": "useキーワード"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,12 +233,13 @@
       "gemini-helper:Open Gemini Chat": false
     }
   },
-  "active": "3222cf35b8690931",
+  "active": "df22e74854943185",
   "lastOpenFiles": [
+    "Notes/Rust/The Rust Programming Language/7章/useキーワード.md",
+    "Notes/Rust/The Rust Programming Language/7章/モジュールを複数のファイルに分割する.md",
     "Daily Notes/2025-12-20.md",
     "Daily Notes/2025-12-19.md",
     "Notes/ゲーム/走り書き.md",
-    "Notes/Rust/The Rust Programming Language/7章/useキーワード.md",
     "Notes/Thesis/1219/メモ.md",
     "Notes/Thesis/1219",
     "Notes/Rust/The Rust Programming Language/6章/Enumの定義.md",
@@ -273,7 +273,6 @@
     "Notes/Thesis/1204/1204.tex",
     "helper/chat_1765713513084_m82foyr.md",
     "helper/chat_1765791734417_xdmpyoq.md",
-    "Notes/APG4b/STLの関数.md",
     "無題のファイル.canvas"
   ]
 }

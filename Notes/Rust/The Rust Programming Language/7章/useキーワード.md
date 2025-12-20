@@ -146,3 +146,12 @@ use std::collections::HashMap; // 本体まで指定
 
 let mut map = HashMap::new(); // 直接名前を使える
 ```
+
+## `pub use`（再公開）
+
+**「内部の複雑な構造を隠し、使いやすい入口を作る」**機能
+
+```rust
+pub use crate::front_of_house::hosting; // 再公開
+hosting::add_to_waitlist(); // 直接使える
+```
