@@ -62,3 +62,15 @@ for c in "नमस्ते".chars() {
     println!("{}", c);
 }
 ```
+
+- `chars`メソッドは、文字列を Unicode スカラー値のイテレータとして走査する
+
+```rust
+for b in "नमस्ते".bytes() {
+    println!("{}", b);
+}
+```
+
+- `bytes`メソッドは、文字列をバイトのイテレータとして走査する
+
+参考(https://doc.rust-jp.rs/book-ja/ch08-02-strings.html)
